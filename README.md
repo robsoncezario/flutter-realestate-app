@@ -1,4 +1,4 @@
-# flutter-realestate-app
+# Real estate app for flutter. This is a WIP
 
   - GraphQL
   - i18n
