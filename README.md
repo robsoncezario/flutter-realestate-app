@@ -4,4 +4,5 @@
   - i18n
   - Provider
   - flutter-web (with adaptive layout)
+  - Dark & light theme
 
