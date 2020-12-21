@@ -3,7 +3,7 @@
   - GraphQL
   - i18n
   - Provider
-  - flutter-web (with adaptive layout)
+  - flutter-web (with adaptive design)
   - Dark & light theme
 
 ![Image of Realstate Home](https://i.imgur.com/sLg0ew6.jpg)
