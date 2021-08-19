@@ -3,7 +3,7 @@
   - GraphQL
   - i18n
   - Provider
-  - flutter-web (with adaptive design)
+  - flutter-web (adaptive design)
   - Dark & light theme
   - It was fed with a graphQL API, using mongoDB and redis.
   - This project is highly dependent on geodata. The idea is a support for even multi currency with location related.
