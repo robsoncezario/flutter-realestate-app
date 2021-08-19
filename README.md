@@ -5,7 +5,7 @@
   - Provider
   - flutter-web (with adaptive design)
   - Dark & light theme
-  - It was fed with a graphQL API, using mongoDB and node-cache.
+  - It was fed with a graphQL API, using mongoDB and redis.
   - This project is highly dependent on geodata. The idea is a support for even multi currency with location related.
 
 ![Image of Realstate Home](https://i.imgur.com/sLg0ew6.jpg)
